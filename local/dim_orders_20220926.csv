@@ -1,0 +1,13 @@
+order_id,order_date,user_id,payment_name,shipper_name,order_price,order_discount,voucher_name,voucher_price,order_total,rating_status
+1110001,2022-01-20,100101,Debit,JNE Express,250000,15000,New User,5000.0,230000,Medium Impact
+1110002,2022-01-29,100102,Debit,JNE Express,620000,40000,New User,5000.0,575000,Medium Impact
+1110003,2022-02-13,100103,Credit,JNE Express,6000000,1000000,New User,5000.0,4995000,Very Low Impact
+1110004,2022-03-06,100102,Wallet,JNE Express,3150000,45000,,,3105000,High Impact
+1110005,2022-04-28,100105,Debit,Sicepat Express,4000000,1000000,New User,5000.0,2995000,Very Low Impact
+1110006,2022-05-09,100103,Debit,Sicepat Express,4500000,1030000,,,3470000,Medium High Impact
+1110007,2022-05-21,100106,Debit,JNE Express,870000,25000,,,845000,High Impact
+1110008,2022-06-02,100108,Credit,Sicepat Express,2000000,0,New User,5000.0,1995000,Medium High Impact
+1110009,2022-06-23,100103,Credit,Lazada Express,2000000,0,,,2000000,High Impact
+1110010,2022-07-01,100102,Credit,Lazada Express,1050000,45000,,,1005000,Low Impact
+1110011,2022-07-21,100110,Wallet,Sicepat Express,550000,15000,,,535000,High Impact
+1110012,2022-07-30,100110,Debit,JNE Express,490000,35000,Body Soap Promo,10000.0,445000,Medium High Impact

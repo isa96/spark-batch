@@ -1,0 +1,24 @@
+{
+    "database":
+    {
+        "host":"localhost",
+        "database":"database",
+        "user":"postgres",
+        "password":"postgres",
+        "port":5432
+    },
+    
+    "warehouse":
+    {
+        "host":"localhost",
+        "database":"warehouse",
+        "user":"postgres",
+        "password":"postgres",
+        "port":5432
+    },
+
+    "spark":
+    {
+        "master":"spark://aaa.localdomain:7077"
+    }
+}
